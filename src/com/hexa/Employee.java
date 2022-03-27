@@ -11,4 +11,8 @@ public class Employee {
 		e.add();
 	}
 
+	public void sub() {
+		System.out.println("sub");
+	}
+
 }
